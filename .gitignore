@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media
+media/
+
+# Environment variables
+env
+
+
+
